@@ -10,9 +10,9 @@ Welcome to my GitHub profile! I'm passionate about finance, data, and technology
 
 ## 🌱 Currently Learning
 - Python & C++ for quant finance & trading strategies
-- Machine learning applications in finance
-- DevOps & software engineering for quant development
-- Risk management & prop trading concepts
+- kdb+/q foundations
+- Algo-trading applications
+- Data Engineering
 
 ## 💞️ Looking to Collaborate On
 - Open-source financial modeling tools
